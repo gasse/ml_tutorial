@@ -35,5 +35,9 @@ Récupérez les deux notebooks `unsupervised.ipynb` et `supervised.ipynb`, puis 
 
 Rendu: vos notebooks avec votre code, réponse aux questions et résultats.
 
+```
 File -> Download as -> Notebook (ipynb)
+```
+
+Compressez vos fichier dans une archive ZIP, avec pour nom `TP_ML_VOSNOMSDEFAMILLE.zip`.
 
